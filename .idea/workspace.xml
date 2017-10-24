@@ -12,100 +12,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="Demo1.lua" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6_concat连接字符串/Demo1.lua">
+        <entry file="file://$PROJECT_DIR$/14_函数调用用点还是冒号/Demo1.lua">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+            <state relative-caret-position="1125">
+              <caret line="45" column="21" lean-forward="false" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Demo1.lua" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7_loadfile、dofile、require/Demo1.lua">
+        <entry file="file://$PROJECT_DIR$/15_类和继承/Demo1.lua">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            <state relative-caret-position="200">
+              <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Demo1.lua" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8_元表(metatable)与元方法(metamethod)/Demo1.lua">
+        <entry file="file://$PROJECT_DIR$/1_Lua方法/Demo1.lua">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1000">
-              <caret line="40" column="21" lean-forward="true" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+            <state relative-caret-position="331">
+              <caret line="63" column="30" lean-forward="false" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo2.lua" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8_元表(metatable)与元方法(metamethod)/Demo2.lua">
+      <file leaf-file-name="Demo2.lua" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2_方法补充/Demo2.lua">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1077">
-              <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo1.lua" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9-__index元方法/Demo1.lua">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="40" column="11" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo1.lua" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10-__newindex元方法/Demo1.lua">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="68" column="19" lean-forward="false" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo1.lua" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11-__index与__newindex/Demo1.lua">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo1.lua" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/12_全局变量与非全局环境/Demo1.lua">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.lua" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7_loadfile、dofile、require/Test.lua">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.lua" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test.lua">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            <state relative-caret-position="-3119">
+              <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -140,6 +80,21 @@
         <option value="$PROJECT_DIR$/10-__newindex元方法/Demo1.lua" />
         <option value="$PROJECT_DIR$/11-__index与__newindex/Demo1.lua" />
         <option value="$PROJECT_DIR$/12_全局变量与非全局环境/Demo1.lua" />
+        <option value="$PROJECT_DIR$/12_全局变量与非全局环境/Demo2.lua" />
+        <option value="$PROJECT_DIR$/13_模块与module/Game.lua" />
+        <option value="$PROJECT_DIR$/13_模块与module/Demo1.lua" />
+        <option value="$PROJECT_DIR$/Game.lua" />
+        <option value="$PROJECT_DIR$/Game1.lua" />
+        <option value="$PROJECT_DIR$/Game2.lua" />
+        <option value="$PROJECT_DIR$/Game3.lua" />
+        <option value="$PROJECT_DIR$/Game4.lua" />
+        <option value="$PROJECT_DIR$/Game5_Game3遗留问题解决方案二.lua" />
+        <option value="$PROJECT_DIR$/Game6_Game3遗留问题解决方案三.lua" />
+        <option value="$PROJECT_DIR$/Game7_终极简化版.lua" />
+        <option value="$PROJECT_DIR$/14_函数调用用点还是冒号/Demo1.lua" />
+        <option value="$PROJECT_DIR$/15_类和继承/Demo1.lua" />
+        <option value="$PROJECT_DIR$/16_多重继承，私密性/Demo1.lua" />
+        <option value="$PROJECT_DIR$/1_Lua方法/Demo1.lua" />
       </list>
     </option>
   </component>
@@ -150,7 +105,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="753" />
+    <option name="x" value="38" />
     <option name="width" value="911" />
     <option name="height" value="1017" />
   </component>
@@ -169,7 +124,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,15 +134,27 @@
             <path>
               <item name="LuaLearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="LuaLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="12_全局变量与非全局环境" type="462c0819:PsiDirectoryNode" />
+              <item name="1_Lua方法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LuaLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LuaLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="2_方法补充" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LuaLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LuaLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="2_方法补充" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo2.lua" type="9fa4e90e:LuaFileTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,9 +162,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="D:/Program Files (x86)/Lua/5.1/lua.exe" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\LuaExample\LuaLearn" />
       <recent name="D:\LuaExample\LuaLearn\7_loadfile、dofile、require" />
     </key>
   </component>
@@ -214,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Lua Script.Demo1.lua (3)">
+  <component name="RunManager" selected="Lua Script.Demo1.lua (4)">
     <configuration name="Demo1.lua (1)" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="D:\Program Files (x86)\Lua\5.1\lua.exe" />
@@ -223,7 +193,7 @@
       <option name="ALTERNATE_INTERPRETER" value="true" />
       <envs />
       <module name="LuaLearn" />
-      <option name="SCRIPT_NAME" value="9-__index元方法/Demo1.lua" />
+      <option name="SCRIPT_NAME" value="14_函数调用用点还是冒号/Demo1.lua" />
       <option name="PARAMETERS" value="" />
     </configuration>
     <configuration name="Demo1.lua (2)" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
@@ -234,7 +204,7 @@
       <option name="ALTERNATE_INTERPRETER" value="true" />
       <envs />
       <module name="LuaLearn" />
-      <option name="SCRIPT_NAME" value="10-__newindex元方法/Demo1.lua" />
+      <option name="SCRIPT_NAME" value="15_类和继承/Demo1.lua" />
       <option name="PARAMETERS" value="" />
     </configuration>
     <configuration name="Demo1.lua (3)" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
@@ -245,7 +215,18 @@
       <option name="ALTERNATE_INTERPRETER" value="true" />
       <envs />
       <module name="LuaLearn" />
-      <option name="SCRIPT_NAME" value="11-__index与__newindex/Demo1.lua" />
+      <option name="SCRIPT_NAME" value="15_类和继承/Demo1.lua" />
+      <option name="PARAMETERS" value="" />
+    </configuration>
+    <configuration name="Demo1.lua (4)" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="D:\Program Files (x86)\Lua\5.1\lua.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="ALTERNATE_INTERPRETER" value="true" />
+      <envs />
+      <module name="LuaLearn" />
+      <option name="SCRIPT_NAME" value="1_Lua方法/Demo1.lua" />
       <option name="PARAMETERS" value="" />
     </configuration>
     <configuration name="Demo1.lua" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
@@ -256,18 +237,7 @@
       <option name="ALTERNATE_INTERPRETER" value="true" />
       <envs />
       <module name="LuaLearn" />
-      <option name="SCRIPT_NAME" value="8_元表(metatable)与元方法(metamethod)/Demo1.lua" />
-      <option name="PARAMETERS" value="" />
-    </configuration>
-    <configuration name="Demo2.lua" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="D:\Program Files (x86)\Lua\5.1\lua.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="ALTERNATE_INTERPRETER" value="true" />
-      <envs />
-      <module name="LuaLearn" />
-      <option name="SCRIPT_NAME" value="8_元表(metatable)与元方法(metamethod)/Demo2.lua" />
+      <option name="SCRIPT_NAME" value="13_模块与module/Demo1.lua" />
       <option name="PARAMETERS" value="" />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -353,17 +323,17 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Lua Script.Demo1.lua" />
-      <item index="1" class="java.lang.String" itemvalue="Lua Script.Demo2.lua" />
-      <item index="2" class="java.lang.String" itemvalue="Lua Script.Demo1.lua (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Lua Script.Demo1.lua (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Lua Script.Demo1.lua (3)" />
+      <item index="1" class="java.lang.String" itemvalue="Lua Script.Demo1.lua (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Lua Script.Demo1.lua (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Lua Script.Demo1.lua (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Lua Script.Demo1.lua (4)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Lua Script.Demo1.lua (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Lua Script.Demo1.lua (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Lua Script.Demo1.lua (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Lua Script.Demo2.lua" />
+        <item index="0" class="java.lang.String" itemvalue="Lua Script.Demo1.lua (4)" />
+        <item index="1" class="java.lang.String" itemvalue="Lua Script.Demo1.lua (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Lua Script.Demo1.lua (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Lua Script.Demo1.lua (1)" />
         <item index="4" class="java.lang.String" itemvalue="Lua Script.Demo1.lua" />
       </list>
     </recent_temporary>
@@ -379,16 +349,17 @@
       <option name="presentableId" value="Default" />
       <updated>1508460592838</updated>
       <workItem from="1508460594619" duration="4969000" />
-      <workItem from="1508465723419" duration="29577000" />
+      <workItem from="1508465723419" duration="35972000" />
+      <workItem from="1508720182809" duration="6296000" />
+      <workItem from="1508729013231" duration="3946000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34546000" />
+    <option name="totallyTimeSpent" value="51183000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="753" y="0" width="911" height="1017" extended-state="0" />
-    <editor active="true" />
+    <frame x="38" y="0" width="911" height="1017" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -398,14 +369,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33371168" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33371168" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20335196" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35083798" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291714" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -417,6 +387,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291714" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -430,6 +401,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/14_函数调用用点还是冒号/Demo1.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_类和继承/Demo1.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_函数调用用点还是冒号/Demo1.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2_方法补充/Demo2.lua">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -442,14 +437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
           <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_方法补充/Demo2.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -468,15 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
           <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_Lua方法/Demo1.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -492,7 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
           <caret line="78" column="19" lean-forward="true" selection-start-line="77" selection-start-column="15" selection-end-line="78" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -500,7 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="60" column="40" lean-forward="false" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -512,27 +488,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7_loadfile、dofile、require/Test.lua">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7_loadfile、dofile、require/Demo1.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -578,11 +537,211 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/12_全局变量与非全局环境/Demo1.lua">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="338">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_全局变量与非全局环境/Demo2.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_模块与module/Game.lua" />
+    <entry file="file://$PROJECT_DIR$/Test.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/7_loadfile、dofile、require/Demo1.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_模块与module/Demo1.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game1.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game2.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game3.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game4_Game3遗留问题解决方案一.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game5_Game3遗留问题解决方案二.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game7_终极简化版.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game6_Game3遗留问题解决方案三.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_函数调用用点还是冒号/Demo1.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="45" column="21" lean-forward="false" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16_多重继承，私密性/Demo1.lua" />
+    <entry file="file://$PROJECT_DIR$/15_类和继承/Demo1.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Lua方法/Demo1.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="63" column="30" lean-forward="false" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_方法补充/Demo2.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3119">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Lua</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LuaLearn</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

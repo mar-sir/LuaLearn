@@ -22,7 +22,7 @@ function Method2(name,age)
 end
 
 Method2("小白",18);
---Method2("小白"); lua参数可变，可多，可少，少了的用nil（空）代替
+Method1("小白"); --lua参数可变，可多，可少，少了的用nil（空）代替
 Method2("小白",18,23,43);
 
 print("lua多返回值");
